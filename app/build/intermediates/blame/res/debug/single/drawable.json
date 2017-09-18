@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\drawable\\logo.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "C:\\Users\\Sefat_2\\AndroidStudioProjects\\vuforia-sdk-android-6-2-10\\samples\\vuforia-samples-advanced-android-6-2-10\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    }
+]
